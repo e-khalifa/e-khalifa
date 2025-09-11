@@ -4,11 +4,10 @@
 
 I'm a full-stack developer, I like to build things!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraakhalifadev/)  
-<a href="https://leetcode.com/u/e_khalifa/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-[![GitHub e-khalifa](https://img.shields.io/github/followers/e-khalifa?label=follow&style=social)](https://github.com/e-khalifa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraakhalifadev/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/e_khalifa/)
+[![GitHub e-khalifa](https://img.shields.io/github/followers/e-khalifa?label=follow&style=for-the-badge&logo=github)](https://github.com/e-khalifa)
+
 
 ### 🧰 Languages and Tools
 
@@ -35,17 +34,18 @@ I'm a full-stack developer, I like to build things!
     <td align="center" width="300px">
       <h4>TaleeX</h4>
       <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="280px" style="height:180px" alt="TaleeX Screenshot"/>
-      <p align="left">AI-Powered Recruitment Platform</p>
-      <p align="left">
+      <p>AI-Powered Recruitment Platform</p>
+      <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>
+        <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="25" alt="OpenAI"/>
       </p>
       <p>
   <a href="https://github.com/e-khalifa/TaleeX">
     <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://taleex.vercel.app/landing-page">
     <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
   </a>
@@ -55,10 +55,12 @@ I'm a full-stack developer, I like to build things!
       <h4>EduVista</h4>
       <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="280px" style="height:180px" alt="EduVista Screenshot"/>
       <p>E-Learning Mobile App</p>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25"/>
-      </p>
+    <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25"/>
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" width="25" alt="BLoC"/>
+</p>
       <p>
         <a href="https://github.com/e-khalifa/EduVista-app">
           <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -71,6 +73,7 @@ I'm a full-stack developer, I like to build things!
       <p>Adventure Web Game</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="25"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25"/>
       </p>
       <p>
         <a href="https://github.com/e-khalifa/Dragon-Quest-game">
