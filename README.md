@@ -34,7 +34,7 @@ I'm a full-stack developer, I like to build things!
   <tr>
     <td align="center" width="300px">
       <h4>🤖 TaleeX</h4>
-      <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="260px" height="300px" alt="TaleeX Screenshot"/>
+      <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="280px" height="180px" alt="TaleeX Screenshot"/>
       <p>AI-Powered Recruitment Platform</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> 
@@ -52,7 +52,7 @@ I'm a full-stack developer, I like to build things!
     </td>
     <td align="center" width="300px">
       <h4>📚 EduVista</h4>
-      <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="260px" height="300px"alt="EduVista Screenshot"/>
+      <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="280px" height="180px"alt="EduVista Screenshot"/>
       <p>E-Learning Mobile App</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25"/>
@@ -66,7 +66,7 @@ I'm a full-stack developer, I like to build things!
     </td>
     <td align="center" width="300px">
       <h4>🐉 Dragon Quest</h4>
-      <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="260px" height="300px" alt="Dragon Quest Screenshot"/>
+      <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="280px" height="180px" alt="Dragon Quest Screenshot"/>
       <p>Adventure Web Game</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="25"/>
@@ -84,7 +84,7 @@ I'm a full-stack developer, I like to build things!
   <tr>
     <td align="center" width="300px">
       <h4>🎮 PlayTable</h4>
-      <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="260px"  style="height:180px" alt="PlayTable Screenshot"/>
+      <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="280px"  style="height:180px" alt="PlayTable Screenshot"/>
       <p>Gaming Web Application</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/>
