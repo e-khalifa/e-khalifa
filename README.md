@@ -79,7 +79,7 @@ I'm a full-stack developer, I like to build things!
           <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://play.unity.com/en/games/dfe10423-ef6d-4afa-94f5-49953337e116/dragon-quest">
-          <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/%E2%96%B6%20Demo-1abc9c?style=for-the-badge&logoColor=white"/>
         </a>
       </p>
     </td>
