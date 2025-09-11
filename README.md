@@ -81,7 +81,7 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>  
   <br/>
-  <a href="https://taleex.vercel.app/landing-page"><img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://taleex.vercel.app/landing-page"><img src="https://img.shields.io/badge/%E2%96%B6%20Demo-0078d7?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <p align="center">
