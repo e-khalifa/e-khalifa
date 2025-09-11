@@ -139,6 +139,6 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
 
 ### 📊 Stats
 
-![Esraa's GitHub stats]([https://github-readme-stats.vercel.app/api?username=e-khalifa&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=e-khalifa&count_private=true&show_icons=true))
+![Esraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-khalifa&count_private=true&show_icons=true))
 
 #
