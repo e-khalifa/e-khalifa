@@ -34,11 +34,19 @@ I'm a full-stack developer, I like to build things!
 
 <!-- BEGIN CARDS -->
 [![POS app built with Flutter and SQL](https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg)](https://github.com/e-khalifa/EasyPOS-app)
-[![TaleeX](https://ytcards.demolab.com/?id=s3uqGfDc8P8&title=Portable+Workstation&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "Portable Workstation")](https://www.youtube.com/shorts/s3uqGfDc8P8)
-[![Why Everyone's Switching to Rust (And Why You Shouldn't)](https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=884 "Why Everyone's Switching to Rust (And Why You Shouldn't)")](https://www.youtube.com/watch?v=meEXag1XCFw)
-[![AI Has Changed How We Build Software // What You Need to Know](https://ytcards.demolab.com/?id=3VQhdXcQ5qI&title=AI+Has+Changed+How+We+Build+Software+%2F%2F+What+You+Need+to+Know&lang=en&timestamp=1755026101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1710 "AI Has Changed How We Build Software // What You Need to Know")](https://www.youtube.com/watch?v=3VQhdXcQ5qI)
-[![Everything You NEED to Know About TECH DEBT](https://ytcards.demolab.com/?id=ukgmp6uxQJc&title=Everything+You+NEED+to+Know+About+TECH+DEBT&lang=en&timestamp=1753375920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1533 "Everything You NEED to Know About TECH DEBT")](https://www.youtube.com/watch?v=ukgmp6uxQJc)
+[![TaleeX AI-Powered Recruitment Platform React.js | Tailwind CSS | Node.js | Express.js | MongoDB | OpenAI | Vapi](https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png)](https://taleex.vercel.app/landing-page)
+[![PlayTable – Gaming Web Application | GitHub
+Next.js | Material-UI | Zustand](https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg)](https://github.com/e-khalifa/PlayTable)
+[![Voyez – E-Commerce Web Application
+NextAngular | Bootstrap](https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg)](https://github.com/e-khalifa/Angular-Ecommerce)
+[![Dragon Quest – Web Game | Unity](https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG)](https://play.unity.com/en/games/dfe10423-ef6d-4afa-94f5-49953337e116/dragon-quest)
+[![Edu Vista – E-Learning Mobile App
+Flutter | Firebase | BLoC](https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg)](https://github.com/e-khalifa/EduVista-app/tree/main)
+
 [![My New PC // I have way too many.](https://ytcards.demolab.com/?id=m5rvhYKrIM4&title=My+New+PC+%2F%2F+I+have+way+too+many.&lang=en&timestamp=1753205655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=45 "My New PC // I have way too many.")](https://www.youtube.com/shorts/m5rvhYKrIM4)
+
+[![Qzify – Quiz Web Application
+Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-ov-file)
 <!-- END CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.linkedin.com/in/esraakhalifadev/)
