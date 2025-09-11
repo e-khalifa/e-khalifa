@@ -100,81 +100,117 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
 <table>
   <tr>
     <td align="center" width="300px">
-      <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="250px" alt="TaleeX Screenshot"/>
       <h4>🤖 TaleeX</h4>
+      <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="250px" alt="TaleeX Screenshot"/>
       <p>AI-Powered Recruitment Platform</p>
-      <p><i>React.js · Tailwind CSS · Node.js · Express.js · MongoDB · OpenAI · Vapi</i></p>
-      <a href="https://github.com/e-khalifa/TaleeX">
-        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://taleex.vercel.app/landing-page">
-        <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
-      </a>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/>
+      </p>
+      <p>
+        <a href="https://github.com/e-khalifa/TaleeX">
+          <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://taleex.vercel.app/landing-page">
+          <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+        </a>
+      </p>
     </td>
     <td align="center" width="300px">
-      <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="250px" alt="EduVista Screenshot"/>
       <h4>📚 EduVista</h4>
+      <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="250px" alt="EduVista Screenshot"/>
       <p>E-Learning Mobile App</p>
-      <p><i>Flutter · Firebase · BLoC</i></p>
-      <a href="https://github.com/e-khalifa/EduVista-app">
-        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25"/>
+      </p>
+      <p>
+        <a href="https://github.com/e-khalifa/EduVista-app">
+          <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
     <td align="center" width="300px">
-      <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="250px" alt="Dragon Quest Screenshot"/>
       <h4>🐉 Dragon Quest</h4>
+      <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="250px" alt="Dragon Quest Screenshot"/>
       <p>Adventure Web Game</p>
-      <p><i>Unity</i></p>
-      <a href="https://github.com/e-khalifa/Dragon-Quest-game">
-        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://play.unity.com/en/games/dfe10423-ef6d-4afa-94f5-49953337e116/dragon-quest">
-        <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
-      </a>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="25"/>
+      </p>
+      <p>
+        <a href="https://github.com/e-khalifa/Dragon-Quest-game">
+          <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://play.unity.com/en/games/dfe10423-ef6d-4afa-94f5-49953337e116/dragon-quest">
+          <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
     <td align="center" width="300px">
-      <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="250px" alt="PlayTable Screenshot"/>
       <h4>🎮 PlayTable</h4>
+      <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="250px" alt="PlayTable Screenshot"/>
       <p>Gaming Web Application</p>
-      <p><i>Next.js · Material-UI · Zustand</i></p>
-      <a href="https://github.com/e-khalifa/PlayTable">
-        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="25"/>
+      </p>
+      <p>
+        <a href="https://github.com/e-khalifa/PlayTable">
+          <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
     <td align="center" width="300px">
-      <img src="https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg" width="250px" alt="Voyez Screenshot"/>
       <h4>🛒 Voyez</h4>
+      <img src="https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg" width="250px" alt="Voyez Screenshot"/>
       <p>E-Commerce Web Application</p>
-      <p><i>Angular · Bootstrap</i></p>
-      <a href="https://github.com/e-khalifa/Angular-Ecommerce">
-        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25"/>
+      </p>
+      <p>
+        <a href="https://github.com/e-khalifa/Angular-Ecommerce">
+          <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
     <td align="center" width="300px">
-      <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="250px" alt="POS App Screenshot"/>
       <h4>💳 EasyPOS</h4>
+      <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="250px" alt="POS App Screenshot"/>
       <p>Point of Sale App</p>
-      <p><i>Flutter · SQLite</i></p>
-      <a href="https://github.com/e-khalifa/EasyPOS-app">
-        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/>
+      </p>
+      <p>
+        <a href="https://github.com/e-khalifa/EasyPOS-app">
+          <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
+  <!--
   <tr>
     <td align="center" width="300px">
-      <img src="https://img.icons8.com/?size=512&id=117561&format=png" width="250px" alt="Qzify Screenshot"/>
       <h4>❓ Qzify</h4>
+      <img src="https://img.icons8.com/?size=512&id=117561&format=png" width="250px" alt="Qzify Screenshot"/>
       <p>Quiz Web Application</p>
-      <p><i>Node.js · Express.js</i></p>
-      <a href="https://github.com/e-khalifa/qzify_backend">
-        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="25"/>
+      </p>
+      <p>
+        <a href="https://github.com/e-khalifa/qzify_backend">
+          <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
+  -->
 </table>
-
 
 
 #
