@@ -50,6 +50,15 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.linkedin.com/in/esraakhalifadev/)
 
+
+### 📺 Projects
+
+| POS App (Flutter + SQL) | TaleeX (React + Node + AI) | PlayTable (Next.js + Zustand) |
+|-------------------------|----------------------------|-------------------------------|
+| ![POS](https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg) | ![TaleeX](https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png) | ![PlayTable](https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> |
+| [🔗 Demo](https://github.com/e-khalifa/EasyPOS-app) | [🔗 Demo](https://taleex.vercel.app/landing-page) | [🔗 Demo](https://github.com/e-khalifa/PlayTable) |
+
 #
 
 ### 📊 Stats
