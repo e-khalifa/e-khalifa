@@ -148,7 +148,7 @@ I'm a full-stack developer, I like to build things!
   </tr>
   -->
 </table>
-[![Check out more projects](https://img.shields.io/badge/Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/e-khalifa?tab=repositories)]
+[<img src="https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/e-khalifa?tab=repositories)
 
 
 #
