@@ -9,6 +9,7 @@ I'm a full-stack developer, I like to build things!
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 [![GitHub e-khalifa](https://img.shields.io/github/followers/e-khalifa?label=follow&style=social)](https://github.com/e-khalifa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e-khalifa&repo=EasyPOS-app&theme=react)](https://github.com/e-khalifa/EasyPOS-app)
 
 
 ### 🧰 Languages and Tools
