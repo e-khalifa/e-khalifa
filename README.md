@@ -4,10 +4,8 @@
 
 I'm a full-stack developer, I like to build things!
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/esraakhalifadev/">
-         <img alt="linkedin profile" title="LinkedIn" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw3rFa1AhJkllp-qjGwxjsVN&ust=1757704426659000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCjuLG10Y8DFQAAAAAdAAAAABAE"/></a> 
-   </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraakhalifadev/)  
+
 
 ### 🧰 Languages and Tools
 
