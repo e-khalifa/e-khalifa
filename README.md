@@ -5,7 +5,9 @@
 I'm a full-stack developer, I like to build things!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraakhalifadev/)  
-
+<a href="https://leetcode-cn.com/u/Jack_yu-1999/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
 ### 🧰 Languages and Tools
 
@@ -137,8 +139,6 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-khalifa&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=e-khalifa&theme=gruvbox&border_radius=4.5) -->
+![Esraa's GitHub stats]([https://github-readme-stats.vercel.app/api?username=e-khalifa&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=e-khalifa&count_private=true&show_icons=true))
 
 #
