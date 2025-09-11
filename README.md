@@ -41,18 +41,15 @@ I'm a full-stack developer, I like to build things!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/>
       </p>
-      <p>
-       <p align="left">
+     <p>
   <a href="https://github.com/e-khalifa/TaleeX">
     <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-<p align="right">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://taleex.vercel.app/landing-page">
     <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
   </a>
 </p>
-      </p>
     </td>
     <td align="center" width="300px">
       <h4>EduVista</h4>
