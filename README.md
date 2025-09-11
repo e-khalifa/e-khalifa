@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e9.svg" width="30px" /> Esraa Khalifa  
+# <img src="https://cdn-icons-png.flaticon.com/512/3429/3429449.png" width="30px" /> Esraa Khalifa
 
 **`Full-Stack Developer`**
 
