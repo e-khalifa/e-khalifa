@@ -36,20 +36,20 @@ I'm a full-stack developer, I like to build things!
 ### 📺 Projects
 
 <!-- BEGIN CARDS -->
-[![POS app built with Flutter and SQL](https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg)](https://github.com/e-khalifa/EasyPOS-app)
 [![TaleeX AI-Powered Recruitment Platform React.js | Tailwind CSS | Node.js | Express.js | MongoDB | OpenAI | Vapi](https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png)](https://taleex.vercel.app/landing-page)
+[![Edu Vista – E-Learning Mobile App
+Flutter | Firebase | BLoC](https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg)](https://github.com/e-khalifa/EduVista-app/tree/main)
+[![Dragon Quest – Web Game | Unity](https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG)](https://play.unity.com/en/games/dfe10423-ef6d-4afa-94f5-49953337e116/dragon-quest)
 [![PlayTable – Gaming Web Application | GitHub
 Next.js | Material-UI | Zustand](https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg)](https://github.com/e-khalifa/PlayTable)
 [![Voyez – E-Commerce Web Application
 NextAngular | Bootstrap](https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg)](https://github.com/e-khalifa/Angular-Ecommerce)
-[![Dragon Quest – Web Game | Unity](https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG)](https://play.unity.com/en/games/dfe10423-ef6d-4afa-94f5-49953337e116/dragon-quest)
-[![Edu Vista – E-Learning Mobile App
-Flutter | Firebase | BLoC](https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg)](https://github.com/e-khalifa/EduVista-app/tree/main)
+[![POS app built with Flutter and SQL](https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg)](https://github.com/e-khalifa/EasyPOS-app)
+[![Qzify – Quiz Web Application
+Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-ov-file)
 
 [![My New PC // I have way too many.](https://ytcards.demolab.com/?id=m5rvhYKrIM4&title=My+New+PC+%2F%2F+I+have+way+too+many.&lang=en&timestamp=1753205655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=45 "My New PC // I have way too many.")](https://www.youtube.com/shorts/m5rvhYKrIM4)
 
-[![Qzify – Quiz Web Application
-Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-ov-file)
 <!-- END CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.linkedin.com/in/esraakhalifadev/)
@@ -94,6 +94,87 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
     </td>
   </tr>
 </table>
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center" width="300px">
+      <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="250px" alt="TaleeX Screenshot"/>
+      <h4>🤖 TaleeX</h4>
+      <p>AI-Powered Recruitment Platform</p>
+      <p><i>React.js · Tailwind CSS · Node.js · Express.js · MongoDB · OpenAI · Vapi</i></p>
+      <a href="https://github.com/e-khalifa/TaleeX">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://taleex.vercel.app/landing-page">
+        <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+      </a>
+    </td>
+    <td align="center" width="300px">
+      <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="250px" alt="EduVista Screenshot"/>
+      <h4>📚 EduVista</h4>
+      <p>E-Learning Mobile App</p>
+      <p><i>Flutter · Firebase · BLoC</i></p>
+      <a href="https://github.com/e-khalifa/EduVista-app">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="300px">
+      <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="250px" alt="Dragon Quest Screenshot"/>
+      <h4>🐉 Dragon Quest</h4>
+      <p>Adventure Web Game</p>
+      <p><i>Unity</i></p>
+      <a href="https://github.com/e-khalifa/Dragon-Quest-game">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://play.unity.com/en/games/dfe10423-ef6d-4afa-94f5-49953337e116/dragon-quest">
+        <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300px">
+      <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="250px" alt="PlayTable Screenshot"/>
+      <h4>🎮 PlayTable</h4>
+      <p>Gaming Web Application</p>
+      <p><i>Next.js · Material-UI · Zustand</i></p>
+      <a href="https://github.com/e-khalifa/PlayTable">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="300px">
+      <img src="https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg" width="250px" alt="Voyez Screenshot"/>
+      <h4>🛒 Voyez</h4>
+      <p>E-Commerce Web Application</p>
+      <p><i>Angular · Bootstrap</i></p>
+      <a href="https://github.com/e-khalifa/Angular-Ecommerce">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="300px">
+      <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="250px" alt="POS App Screenshot"/>
+      <h4>💳 EasyPOS</h4>
+      <p>Point of Sale App</p>
+      <p><i>Flutter · SQLite</i></p>
+      <a href="https://github.com/e-khalifa/EasyPOS-app">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300px">
+      <img src="https://img.icons8.com/?size=512&id=117561&format=png" width="250px" alt="Qzify Screenshot"/>
+      <h4>❓ Qzify</h4>
+      <p>Quiz Web Application</p>
+      <p><i>Node.js · Express.js</i></p>
+      <a href="https://github.com/e-khalifa/qzify_backend">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 #
