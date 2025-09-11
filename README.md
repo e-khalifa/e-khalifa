@@ -43,9 +43,6 @@ I'm a full-stack developer, I like to build things!
         <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="25" alt="OpenAI"/>
       </p>
       <p>
-  <a href="https://github.com/e-khalifa/TaleeX">
-    <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://taleex.vercel.app/landing-page">
     <img src="https://img.shields.io/badge/%E2%96%B6%20Demo-1abc9c?style=for-the-badge&logoColor=white"/>
   </a>
@@ -102,12 +99,12 @@ I'm a full-stack developer, I like to build things!
     <td align="center" width="300px">
       <h4>Voyez</h4>
       <img src="https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg" width="280px" style="height:180px" alt="Voyez Screenshot"/>
-      <p align="left">E-Commerce Web Application</p>
-      <p align="left">
+      <p>E-Commerce Web Application</p>
+      <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25"/>
       </p>
-      <p align="left">
+      <p>
         <a href="https://github.com/e-khalifa/Angular-Ecommerce">
           <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
