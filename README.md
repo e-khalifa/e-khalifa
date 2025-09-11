@@ -54,7 +54,6 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
 
 
 ### 📺 Projects  
-
 <table align="center" cellspacing="15">
   <tr>
     <!-- POS App -->
@@ -98,7 +97,6 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
     </td>
   </tr>
 </table>
-
 
 
 #
