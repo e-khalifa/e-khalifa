@@ -148,7 +148,8 @@ I'm a full-stack developer, I like to build things!
   </tr>
   -->
 </table>
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.linkedin.com/in/esraakhalifadev/)
+[![Check out more projects](https://img.shields.io/badge/Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/e-khalifa?tab=repositories)
+
 
 #
 
