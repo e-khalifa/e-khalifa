@@ -55,40 +55,45 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
 
 ### 📺 Projects  
 
-<table align="center">
+<table align="center" cellspacing="15">
   <tr>
-    <td align="center" width="300">
+    <!-- POS App -->
+    <td align="center" valign="top" width="300" style="background:#f6f8fa; border-radius:15px; padding:10px;">
+      <b>POS App</b><br/><br/>
       <a href="https://github.com/e-khalifa/EasyPOS-app">
-        <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="250" style="border-radius:15px;"/>
+        <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="250" style="border-radius:12px;"/>
       </a>
-      <br/>
-      <b>POS App</b><br/>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>  
-      <br/>
+      <br/><br/>
       <a href="https://github.com/e-khalifa/EasyPOS-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
-    <td align="center" width="300">
+
+    <!-- Taleex -->
+    <td align="center" valign="top" width="300" style="background:#f6f8fa; border-radius:15px; padding:10px;">
+      <b>TaleeX – AI Recruitment</b><br/><br/>
       <a href="https://taleex.vercel.app/landing-page">
-        <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="250" style="border-radius:15px;"/>
+        <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="250" style="border-radius:12px;"/>
       </a>
-      <br/>
-      <b>TaleeX – AI Recruitment</b><br/>
+      <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>  
-      <br/>
+      <br/><br/>
       <a href="https://taleex.vercel.app/landing-page"><img src="https://img.shields.io/badge/%E2%96%B6%20Demo-0078d7?style=for-the-badge&logoColor=white"/></a>
     </td>
-    <td align="center" width="300">
+
+    <!-- PlayTable -->
+    <td align="center" valign="top" width="300" style="background:#f6f8fa; border-radius:15px; padding:10px;">
+      <b>PlayTable – Gaming Web App</b><br/><br/>
       <a href="https://github.com/e-khalifa/PlayTable">
-        <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="250" style="border-radius:15px;"/>
+        <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="250" style="border-radius:12px;"/>
       </a>
-      <br/>
-      <b>PlayTable – Gaming Web App</b><br/>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Zustand-FF9800?style=flat&logo=react&logoColor=white"/>  
-      <br/>
+      <br/><br/>
       <a href="https://github.com/e-khalifa/PlayTable"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
