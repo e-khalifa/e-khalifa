@@ -84,7 +84,7 @@ I'm a full-stack developer, I like to build things!
   <tr>
     <td align="center" width="300px">
       <h4>🎮 PlayTable</h4>
-      <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="260px" height="300px" alt="PlayTable Screenshot"/>
+      <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="260px"  style="height:300px" alt="PlayTable Screenshot"/>
       <p>Gaming Web Application</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/>
