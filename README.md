@@ -33,7 +33,7 @@ I'm a full-stack developer, I like to build things!
 <table>
   <tr>
     <td align="center" width="300px">
-      <h4>🤖 TaleeX</h4>
+      <h4>TaleeX</h4>
       <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="280px" style="height:180px" alt="TaleeX Screenshot"/>
       <p>AI-Powered Recruitment Platform</p>
       <p>
@@ -51,7 +51,7 @@ I'm a full-stack developer, I like to build things!
       </p>
     </td>
     <td align="center" width="300px">
-      <h4>📚 EduVista</h4>
+      <h4>EduVista</h4>
       <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="280px" style="height:180px" alt="EduVista Screenshot"/>
       <p>E-Learning Mobile App</p>
       <p>
@@ -65,7 +65,7 @@ I'm a full-stack developer, I like to build things!
       </p>
     </td>
     <td align="center" width="300px">
-      <h4>🐉 Dragon Quest</h4>
+      <h4>Dragon Quest</h4>
       <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="280px" style="height:180px" alt="Dragon Quest Screenshot"/>
       <p>Adventure Web Game</p>
       <p>
@@ -83,7 +83,7 @@ I'm a full-stack developer, I like to build things!
   </tr>
   <tr>
     <td align="center" width="300px">
-      <h4>🎮 PlayTable</h4>
+      <h4>PlayTable</h4>
       <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="280px"  style="height:180px" alt="PlayTable Screenshot"/>
       <p>Gaming Web Application</p>
       <p>
@@ -97,10 +97,10 @@ I'm a full-stack developer, I like to build things!
       </p>
     </td>
     <td align="center" width="300px">
-      <h4>🛒 Voyez</h4>
+      <h4>Voyez</h4>
       <img src="https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg" width="280px" style="height:180px" alt="Voyez Screenshot"/>
       <p>E-Commerce Web Application</p>
-      <p>
+<p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25"/>
       </p>
@@ -111,7 +111,7 @@ I'm a full-stack developer, I like to build things!
       </p>
     </td>
     <td align="center" width="300px">
-      <h4>💳 EasyPOS</h4>
+      <h4>EasyPOS</h4>
       <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="280px" style="height:180px" alt="POS App Screenshot"/>
       <p>Point of Sale App</p>
       <p>
