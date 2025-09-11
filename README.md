@@ -52,7 +52,7 @@ I'm a full-stack developer, I like to build things!
     </td>
     <td align="center" width="300px">
       <h4>📚 EduVista</h4>
-      <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="250px" alt="EduVista Screenshot"/>
+      <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="260px" height="300px"alt="EduVista Screenshot"/>
       <p>E-Learning Mobile App</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25"/>
@@ -66,7 +66,7 @@ I'm a full-stack developer, I like to build things!
     </td>
     <td align="center" width="300px">
       <h4>🐉 Dragon Quest</h4>
-      <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="250px" alt="Dragon Quest Screenshot"/>
+      <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="260px" height="300px" alt="Dragon Quest Screenshot"/>
       <p>Adventure Web Game</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="25"/>
@@ -84,7 +84,7 @@ I'm a full-stack developer, I like to build things!
   <tr>
     <td align="center" width="300px">
       <h4>🎮 PlayTable</h4>
-      <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="250px" alt="PlayTable Screenshot"/>
+      <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="260px" height="300px" alt="PlayTable Screenshot"/>
       <p>Gaming Web Application</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25"/>
@@ -98,7 +98,7 @@ I'm a full-stack developer, I like to build things!
     </td>
     <td align="center" width="300px">
       <h4>🛒 Voyez</h4>
-      <img src="https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg" width="250px" alt="Voyez Screenshot"/>
+      <img src="https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg" width="260px" height="300px" alt="Voyez Screenshot"/>
       <p>E-Commerce Web Application</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="25"/>
@@ -112,7 +112,7 @@ I'm a full-stack developer, I like to build things!
     </td>
     <td align="center" width="300px">
       <h4>💳 EasyPOS</h4>
-      <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="250px" alt="POS App Screenshot"/>
+      <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="260px" height="300px" alt="POS App Screenshot"/>
       <p>Point of Sale App</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25"/>
@@ -129,7 +129,7 @@ I'm a full-stack developer, I like to build things!
   <tr>
     <td align="center" width="300px">
       <h4>❓ Qzify</h4>
-      <img src="https://img.icons8.com/?size=512&id=117561&format=png" width="250px" alt="Qzify Screenshot"/>
+      <img src="https://img.icons8.com/?size=512&id=117561&format=png" width="260px" height="300px" alt="Qzify Screenshot"/>
       <p>Quiz Web Application</p>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
