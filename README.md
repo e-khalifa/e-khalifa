@@ -1,8 +1,9 @@
 # <img src="https://static.thenounproject.com/png/51411-200.png" width="30px" /> Esraa Khalifa
 
-**`Full-Stack Developer`**
+**`Software Developer`**
 
-I'm a full-stack developer, I like to build things!
+I build things—websites, apps, and sometimes games.. So I guess you could call me a software developer.
+I enjoy the challenge of taking an idea, breaking it down, and turning it around until the pieces click… kind of like solving a cube, and I’m pretty good at that!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraakhalifadev/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/e_khalifa/) [![GitHub e-khalifa](https://img.shields.io/github/followers/e-khalifa?label=follow&style=for-the-badge&logo=github)](https://github.com/e-khalifa)
 
