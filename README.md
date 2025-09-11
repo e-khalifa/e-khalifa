@@ -47,7 +47,7 @@ I'm a full-stack developer, I like to build things!
     <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://taleex.vercel.app/landing-page">
-    <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Demo-1abc9c?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
     </td>
@@ -59,7 +59,6 @@ I'm a full-stack developer, I like to build things!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25"/>
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" width="25" alt="BLoC"/>
 </p>
       <p>
         <a href="https://github.com/e-khalifa/EduVista-app">
