@@ -8,7 +8,7 @@ I'm a full-stack developer, I like to build things!
 <a href="https://leetcode.com/u/e_khalifa/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-[![GitHub e-khalifa](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/e-khalifa)
+[![GitHub e-khalifa](https://img.shields.io/github/followers/e-khalifa?label=follow&style=social)](https://github.com/e-khalifa)
 
 
 ### 🧰 Languages and Tools
