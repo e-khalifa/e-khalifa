@@ -41,16 +41,21 @@ I'm a full-stack developer, I like to build things!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/>
       </p>
-      <p align="left">
-  <a href="https://github.com/e-khalifa/TaleeX">
-    <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <span style="float: right;">
-    <a href="https://taleex.vercel.app/landing-page">
-      <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
-    </a>
-  </span>
-</p>
+   <table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/e-khalifa/TaleeX">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://taleex.vercel.app/landing-page">
+        <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
     </td>
     <td align="center" width="300px">
