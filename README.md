@@ -45,7 +45,7 @@ I'm a full-stack developer, I like to build things!
   <a href="https://github.com/e-khalifa/TaleeX">
     <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://taleex.vercel.app/landing-page">
     <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
   </a>
