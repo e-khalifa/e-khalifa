@@ -55,51 +55,45 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.linkedin.com/in/esraakhalifadev/)
 
 
-### 📺 Projects  
-<table align="center">
+### 🚀 Projects
+
+<table>
   <tr>
-    <!-- POS App -->
-    <td align="center" width="300">
-      <b>POS App</b><br/>
+    <td align="center" width="300px">
+      <img src="screenshot1.png" width="250px" alt="Project 1 Screenshot"/>
+      <h4>📦 EasyPOS App</h4>
+      <p>Point of Sale system with modern UI</p>
       <a href="https://github.com/e-khalifa/EasyPOS-app">
-        <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="250"/>
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>  
-      <br/><br/>
-      <a href="https://github.com/e-khalifa/EasyPOS-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://easypos-demo.com">
+        <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+      </a>
     </td>
-
-    <!-- Taleex -->
-    <td align="center" width="300">
-      <b>TaleeX – AI Recruitment</b><br/>
-      <a href="https://taleex.vercel.app/landing-page">
-        <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="250"/>
+    <td align="center" width="300px">
+      <img src="screenshot2.png" width="250px" alt="Project 2 Screenshot"/>
+      <h4>📊 Dashboard</h4>
+      <p>Admin dashboard with charts and stats</p>
+      <a href="https://github.com/e-khalifa/Dashboard">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>  
-      <br/><br/>
-      <a href="https://taleex.vercel.app/landing-page"><img src="https://img.shields.io/badge/Demo-0078d7?style=for-the-badge&logoColor=white"/></a>
+      <a href="https://dashboard-demo.com">
+        <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+      </a>
     </td>
-
-    <!-- PlayTable -->
-    <td align="center" width="300">
-      <b>PlayTable – Gaming Web App</b><br/>
-      <a href="https://github.com/e-khalifa/PlayTable">
-        <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="250"/>
+    <td align="center" width="300px">
+      <img src="screenshot3.png" width="250px" alt="Project 3 Screenshot"/>
+      <h4>🛒 E-Commerce</h4>
+      <p>Shop system with cart & checkout</p>
+      <a href="https://github.com/e-khalifa/Ecommerce">
+        <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Zustand-FF9800?style=flat&logo=react&logoColor=white"/>  
-      <br/><br/>
-      <a href="https://github.com/e-khalifa/PlayTable"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://ecommerce-demo.com">
+        <img src="https://img.shields.io/badge/Demo-1abc9c?style=for-the-badge"/>
+      </a>
     </td>
   </tr>
 </table>
-
 
 
 #
