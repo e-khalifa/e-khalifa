@@ -51,13 +51,47 @@ Node.js | Express.js]()](https://github.com/e-khalifa/qzify_backend?tab=readme-o
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.linkedin.com/in/esraakhalifadev/)
 
 
-### 📺 Projects
+### 📺 Projects  
 
-| POS App (Flutter + SQL) | TaleeX (React + Node + AI) | PlayTable (Next.js + Zustand) |
-|-------------------------|----------------------------|-------------------------------|
-| ![POS](https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg) | ![TaleeX](https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png) | ![PlayTable](https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> |
-| [🔗 Demo](https://github.com/e-khalifa/EasyPOS-app) | [🔗 Demo](https://taleex.vercel.app/landing-page) | [🔗 Demo](https://github.com/e-khalifa/PlayTable) |
+<p align="center">
+  <!-- Card 1 -->
+  <a href="https://github.com/e-khalifa/EasyPOS-app">
+    <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="280" style="border-radius:15px;"/>
+  </a>
+  <br/>
+  <b>POS App</b><br/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>  
+  <br/>
+  <a href="https://github.com/e-khalifa/EasyPOS-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <!-- Card 2 -->
+  <a href="https://taleex.vercel.app/landing-page">
+    <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="280" style="border-radius:15px;"/>
+  </a>
+  <br/>
+  <b>TaleeX – AI Recruitment</b><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>  
+  <br/>
+  <a href="https://taleex.vercel.app/landing-page"><img src="https://img.shields.io/badge/Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <!-- Card 3 -->
+  <a href="https://github.com/e-khalifa/PlayTable">
+    <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="280" style="border-radius:15px;"/>
+  </a>
+  <br/>
+  <b>PlayTable – Gaming Web App</b><br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Zustand-FF9800?style=flat&logo=react&logoColor=white"/>  
+  <br/>
+  <a href="https://github.com/e-khalifa/PlayTable"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 #
 
