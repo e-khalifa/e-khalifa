@@ -4,7 +4,8 @@
 
 I'm a full-stack developer, I like to build things!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraakhalifadev/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/e_khalifa/) [![GitHub e-khalifa](https://img.shields.io/github/followers/e-khalifa?label=Follow&style=for-the-badge&logo=github)](https://github.com/e-khalifa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraakhalifadev/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/e_khalifa/) [![GitHub e-khalifa](https://img.shields.io/github/followers/e-khalifa?label=follow&style=for-the-badge&logo=github)](https://github.com/e-khalifa)
+
 
 
 
