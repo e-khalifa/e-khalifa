@@ -41,7 +41,6 @@ I'm a full-stack developer, I like to build things!
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/>
       </p>
-     <p>
     <p align="left">
   <a href="https://github.com/e-khalifa/TaleeX">
     <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
