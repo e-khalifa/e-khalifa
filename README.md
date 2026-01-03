@@ -149,9 +149,3 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
 [<img src="https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/e-khalifa?tab=repositories)
 
 #
-
-### 📊 Stats
-
-![Esraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-khalifa&count_private=true&show_icons=true)
-
-#
