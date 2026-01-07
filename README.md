@@ -144,6 +144,5 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
   </tr>
   -->
 </table>
-[<img src="https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=demo&logoColor=white"/>](https://esraakhalifa.vercel.app/)
-
+[![Check out more projects](https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=demo&logoColor=white)](https://esraakhalifa.vercel.app)
 #
