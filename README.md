@@ -81,7 +81,7 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
       </p>
     </td>
   </tr>
-  <tr>
+  <!-- <tr> -->
     <!-- <td align="center" width="300px">
       <h4>PlayTable</h4>
       <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="280px"  style="height:180px" alt="PlayTable Screenshot"/>
@@ -124,7 +124,7 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
         </a>
       </p>
     </td> -->
-  </tr>
+  <!-- </tr> -->
   <!--
   <tr>
     <td align="center" width="300px">
