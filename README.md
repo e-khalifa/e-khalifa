@@ -15,23 +15,23 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
 <img align="left" alt="NodeJS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<!-- <img align="left" alt="Angular" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
+<!-- <img align="left" alt="Git" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -->
+<!-- <img align="left" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> -->
+<!-- <img align="left" alt="CSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> -->
+<!-- <img align="left" alt="GitHub" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
+<img align="left" alt="Next" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
-<img align="left" alt="Nest" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
-<img align="left" alt="Next" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" />
+<!-- <img align="left" alt="Nest" width="30px" style="padding-right:5px;" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" /> -->
 <br />
 
 #
 
 <table>
   <tr>
-    <td align="center" width="300px">
+    <td align="center" width="450px">
       <h4>TaleeX</h4>
       <img src="https://github.com/e-khalifa/e-khalifa/blob/main/taleex.png" width="280px" style="height:180px" alt="TaleeX Screenshot"/>
       <p>AI-Powered Recruitment Platform</p>
@@ -63,7 +63,7 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
         </a>
       </p>
     </td> -->
-    <td align="center" width="300px">
+    <td align="center" width="450px">
       <h4>Dragon Quest</h4>
       <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="280px" style="height:180px" alt="Dragon Quest Screenshot"/>
       <p>Adventure Web Game</p>
@@ -145,6 +145,6 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
   -->
 </table>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/e-khalifa?tab=repositories)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=demo&logoColor=white"/>](https://esraakhalifa.vercel.app/)
 
 #
