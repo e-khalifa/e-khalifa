@@ -5,7 +5,7 @@
 I build things...websites, apps, and sometimes games.. So I guess you could call me a software developer.
 I enjoy the challenge of taking an idea, breaking it down, and turning it around until the pieces click… kind of like solving a cube, and I’m pretty good at that!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio?style=for-the-badge&logo=appveyor&logoColor=white)](https://esraakhalifa.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraakhalifadev/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/e_khalifa/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio?style=for-the-badge&logo=demo&logoColor=white)](https://esraakhalifa.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esraakhalifadev/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/e_khalifa/) 
 
 
 
@@ -144,5 +144,5 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
   </tr>
   -->
 </table>
-[![Check out more projects](https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=demo&logoColor=white)](https://esraakhalifa.vercel.app)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=demo&logoColor=white"/>](https://esraakhalifa.vercel.app)
 #
