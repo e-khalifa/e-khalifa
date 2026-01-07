@@ -49,7 +49,7 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
   </a>
 </p>
     </td>
-    <td align="center" width="300px">
+    <!-- <td align="center" width="300px">
       <h4>EduVista</h4>
       <img src="https://github.com/e-khalifa/EduVista-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(1).jpg" width="280px" style="height:180px" alt="EduVista Screenshot"/>
       <p>E-Learning Mobile App</p>
@@ -63,7 +63,7 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
           <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-    </td>
+    </td> -->
     <td align="center" width="300px">
       <h4>Dragon Quest</h4>
       <img src="https://github.com/e-khalifa/Dragon-Quest-game/blob/main/Assets/Sprites/Screenshots/Capture.JPG" width="280px" style="height:180px" alt="Dragon Quest Screenshot"/>
@@ -83,7 +83,7 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
     </td>
   </tr>
   <tr>
-    <td align="center" width="300px">
+    <!-- <td align="center" width="300px">
       <h4>PlayTable</h4>
       <img src="https://github.com/e-khalifa/PlayTable/blob/main/demo/screenshot-playtable.jpeg" width="280px"  style="height:180px" alt="PlayTable Screenshot"/>
       <p>Gaming Web Application</p>
@@ -96,8 +96,8 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
           <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-    </td>
-    <td align="center" width="300px">
+    </td> -->
+    <!-- <td align="center" width="300px">
       <h4>Voyez</h4>
       <img src="https://github.com/e-khalifa/Angular-Ecommerce/blob/main/public/demo/angular_ecomm.jpeg" width="280px" style="height:180px" alt="Voyez Screenshot"/>
       <p>E-Commerce Web Application</p>
@@ -110,8 +110,8 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
           <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-    </td>
-    <td align="center" width="300px">
+    </td> -->
+    <!-- <td align="center" width="300px">
       <h4>EasyPOS</h4>
       <img src="https://github.com/e-khalifa/EasyPOS-app/blob/main/assets/screenshots/Blue%20Modern%20Mobile%20Application%20Presentation%20(3).jpg" width="280px" style="height:180px" alt="POS App Screenshot"/>
       <p>Point of Sale App</p>
@@ -124,7 +124,7 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
           <img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-    </td>
+    </td> -->
   </tr>
   <!--
   <tr>
@@ -145,7 +145,6 @@ I enjoy the challenge of taking an idea, breaking it down, and turning it around
   </tr>
   -->
 </table>
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/e-khalifa?tab=repositories)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Check%20out%20more%20projects-1abc9c?style=for-the-badge&logo=Demo&logoColor=white"/>](https://esraakhalifa.vercel.app/)
 
 #
